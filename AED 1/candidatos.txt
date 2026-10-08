@@ -1,0 +1,175 @@
+20
+****
+Miguel Almeida
+SP
+M
+I
+4
+1
+5
+4
+2
+****
+Beatriz Oliveira
+RJ
+F
+M
+3
+2
+1
+3
+****
+Lúcia Almeida
+RJ
+F
+F
+1
+1
+****
+Pedro Costa
+MG
+M
+F
+2
+4
+1
+****
+Rita Almeida
+RJ
+F
+M
+2
+1
+5
+****
+Beatriz Almeida
+RJ
+F
+F
+4
+2
+7
+8
+3
+****
+Catarina Silva
+MG
+F
+M
+1
+3
+****
+Bruno Ferreira
+ES
+M
+M
+1
+1
+****
+Tiago Silva
+RJ
+M
+F
+4
+6
+7
+5
+1
+****
+Carlos Ferreira
+RJ
+M
+I
+4
+8
+1
+2
+3
+****
+Rui Silva
+MG
+M
+I
+2
+3
+1
+****
+Catarina Oliveira
+RJ
+F
+I
+1
+3
+****
+Bruno Martins
+MG
+M
+F
+3
+4
+1
+6
+****
+Miguel Almeida
+MG
+M
+F
+1
+3
+****
+Carlos Silva
+RJ
+M
+I
+4
+1
+7
+8
+5
+****
+Carlos Oliveira
+ES
+M
+I
+2
+7
+3
+****
+João Martins
+RJ
+M
+I
+4
+7
+2
+5
+8
+****
+Tiago Martins
+RJ
+M
+I
+4
+7
+4
+6
+3
+****
+Ana Santos
+RJ
+F
+M
+3
+1
+8
+3
+****
+Miguel Santos
+ES
+M
+I
+4
+8
+1
+2
+7
